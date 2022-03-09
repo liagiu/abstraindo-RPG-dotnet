@@ -1,0 +1,13 @@
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\bin\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.deps.json
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\bin\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.runtimeconfig.json
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\bin\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.runtimeconfig.dev.json
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\bin\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.dll
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\bin\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.pdb
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\obj\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.csproj.AssemblyReference.cache
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\obj\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\obj\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.AssemblyInfoInputs.cache
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\obj\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.AssemblyInfo.cs
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\obj\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\obj\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.dll
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\obj\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.pdb
+C:\Users\SQA\Documents\projetos-cursos\abstraindo-rpg-dotnet\obj\Debug\netcoreapp2.0\abstraindo-rpg-dotnet.genruntimeconfig.cache
